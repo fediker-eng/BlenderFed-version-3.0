@@ -1,0 +1,67 @@
+.line{
+    width: 1000px;
+    height: 4px;
+    background-color: brown;
+    margin-top: -58px;
+}
+.realistic-img{
+    width: 180px;
+    height: 120px;
+    margin-top: -10px;
+}
+.realistic-models-container{
+    display: flex;
+    background-color: green;
+    border-bottom-right-radius: 1500px;
+    border-top-right-radius: 1500px;
+    height: 100px;
+}
+.line-about{
+    width: 1000px;
+    height: 4px;
+    background-color: darkgoldenrod;
+    margin-top: -55px;
+
+}
+.all{
+    font-family: Arial, sans-serif;
+    font-size: x-large;
+    color: white;
+    margin-top: 80px;
+    margin-left: -800px;
+
+}
+.low-line{
+    width: 1000px;
+    height: 4px;
+    background-color: darkcyan;
+    margin-top: -55px;
+
+}
+.low-mini-line{
+    width: 500px;
+    height: 3px;
+    background-color: darkgoldenrod;
+    margin-top: -35px;
+}
+.ask-me-line{
+    width: 1000px;
+    height: 4px;
+    background-color: dodgerblue;
+    margin-top: -55px;
+}
+.ask-me-container{
+    margin-top: 40px;
+    border: solid dodgerblue 4px;
+    width: 1100px;
+    height: 650px;
+    position: relative;
+    border-radius: 10px;
+    z-index: 1;
+
+
+}
+.ask-me-container-text{
+    margin-left: 20px;
+    gap: 9px;
+}
